@@ -1,0 +1,1 @@
+Screen is 600x488
